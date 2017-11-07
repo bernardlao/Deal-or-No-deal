@@ -1,0 +1,5 @@
+C:\Users\Bernard Lao\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Users\Bernard Lao\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Users\Bernard Lao\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Bernard Lao\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+C:\Users\Bernard Lao\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb

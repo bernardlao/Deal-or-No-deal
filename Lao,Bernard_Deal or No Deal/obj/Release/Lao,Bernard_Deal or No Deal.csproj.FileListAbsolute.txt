@@ -1,0 +1,5 @@
+C:\Users\Bernard Lao\Documents\Visual Studio 2008\Projects\Lao,Bernard_Deal or No Deal\Lao,Bernard_Deal or No Deal\bin\Release\Lao,Bernard_Deal or No Deal.exe
+C:\Users\Bernard Lao\Documents\Visual Studio 2008\Projects\Lao,Bernard_Deal or No Deal\Lao,Bernard_Deal or No Deal\bin\Release\Lao,Bernard_Deal or No Deal.pdb
+C:\Users\Bernard Lao\Documents\Visual Studio 2008\Projects\Lao,Bernard_Deal or No Deal\Lao,Bernard_Deal or No Deal\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Bernard Lao\Documents\Visual Studio 2008\Projects\Lao,Bernard_Deal or No Deal\Lao,Bernard_Deal or No Deal\obj\Release\Lao,Bernard_Deal or No Deal.exe
+C:\Users\Bernard Lao\Documents\Visual Studio 2008\Projects\Lao,Bernard_Deal or No Deal\Lao,Bernard_Deal or No Deal\obj\Release\Lao,Bernard_Deal or No Deal.pdb
